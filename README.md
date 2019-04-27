@@ -5,4 +5,4 @@ When magic meets computer science
 
 # The idea
 The idea comes from this picture. I'm too stressed so I need some kind of fun hobbie to release steam. 
-![The idea ](ToT\resources\technomancy.jpg )
+![picture](https://raw.githubusercontent.com/LenaTevar/TalesOfTechnomancy/master/ToT/resources/technomancy.jpg)
