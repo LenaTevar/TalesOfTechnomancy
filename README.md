@@ -10,3 +10,9 @@ When magic meets computer science
 # The idea
 The idea comes from this [post](https://anthraxlobster.tumblr.com/post/178125186925/free-worldbuilding-idea-wizards-have-the-same). I'm too stressed so I need some kind of fun hobbie to release steam. 
 
+# Template
+Example: 
+1. Pick your language
+2. Create md: PairMagicCrafting.md
+3. Write your stuf!
+4. Link it in your language readme. 
