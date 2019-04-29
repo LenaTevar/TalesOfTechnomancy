@@ -16,3 +16,15 @@
 - You don't what? 
 - I don't know how I did it! It should not work! I just erased half of the page and it is still working!
 - ASSISTANT! BRING THE HOLY WATER!
+
+## There was a problem
+- Why this silver solvent is not working with my copper solution? I will look for more info in other researchers notes. Probably someone else fixed already.
+ 
+```
+Day 233,
+The silver solvent is not working with the copper solution even when I boiled the lizard eyes for three days. 
+..
+..
+Day 234, 
+Nevermid, I fixed it.
+```
