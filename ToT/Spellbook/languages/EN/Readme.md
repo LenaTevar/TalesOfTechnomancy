@@ -1,3 +1,3 @@
 # Tales in English
 
-- [The book of all things](ToT\Spellbook\languages\EN\TheBookOfAllThings.md)
+- [The book of all things](https://github.com/LenaTevar/TalesOfTechnomancy/blob/master/ToT/Spellbook/languages/EN/TheBookOfAllThings.md)
