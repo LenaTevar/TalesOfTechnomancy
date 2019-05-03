@@ -28,3 +28,15 @@ The silver solvent is not working with the copper solution even when I boiled th
 Day 234, 
 Nevermid, I fixed it.
 ```
+
+## Use the golems
+- Are you wizards? 
+- Yes
+- Yup, we are
+- Oh! I'm a great fan of Magic!! Look, I have a golem pet, and my clock is magically connected with my brain
+- Cool
+- Nice
+- I have a question. What do you think about managing the Knight selection using golems to retrieve the votes?
+- ARE YOU CRAZY
+- NO WAY
+- THAT IS THE MOST STUPID IDEA I EVER HEARD
