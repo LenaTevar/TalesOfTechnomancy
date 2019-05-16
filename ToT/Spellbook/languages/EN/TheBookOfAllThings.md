@@ -45,3 +45,10 @@ Nevermid, I fixed it.
 - I made this awesome potion that will make our pets to talk!
    - Nice, did you test it?
 -  I was to busy making it but I'm confident that...  *drops potion to dog. Dog explotes* ... it worked on my papers. 
+
+## It is not a mistake!!
+- I made a golem
+   - Your golem wants to jump into the chimeney 
+- He is ambitious!
+   - He is broken
+- No, is not! It's a perk! 
