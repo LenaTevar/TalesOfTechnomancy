@@ -40,3 +40,8 @@ Nevermid, I fixed it.
 - ARE YOU CRAZY
 - NO WAY
 - THAT IS THE MOST STUPID IDEA I EVER HEARD
+
+## Have you tried it? 
+- I made this awesome potion that will make our pets to talk!
+- Nice, did you test it?
+- I was to busy making it but I'm confident that...  *drops potion to dog. Dog explotes* ... it worked on my papers. 
